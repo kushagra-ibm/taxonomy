@@ -63,4 +63,16 @@ seed_examples:
 
       '
     question: List five antonyms for the word attend and separate with newline.
+  - answer: 'Here are two rhyming words for "live":
+
+
+    1\. dive
+
+    2\. hive
+
+
+    '
+question: 'Give me two words that rhyme with live
+
+    '
 task_description: to teach a large language model to list the synonyms for a word.
