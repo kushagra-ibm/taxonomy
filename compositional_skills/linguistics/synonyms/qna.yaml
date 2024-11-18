@@ -73,7 +73,7 @@ seed_examples:
     question: 'Give me two words that rhyme with live
 
     '
-    - answer: 'Here are two rhyming words for "cake":
+  - answer: 'Here are two rhyming words for "cake":
 
       bake
  
@@ -82,7 +82,7 @@ seed_examples:
       fake
  
        '
-     question: 'Give me two words that rhyme with cake
+    question: 'Give me two words that rhyme with cake
  
      '
 task_description: to teach a large language model to list the synonyms for a word.
