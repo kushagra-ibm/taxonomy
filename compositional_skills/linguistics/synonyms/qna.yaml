@@ -75,14 +75,14 @@ seed_examples:
     '
   - answer: 'Here are two rhyming words for "cake":
 
-      bake
+     bake
  
-      lake
+     lake
 
-      fake
+     fake
  
-       '
+      '
     question: 'Give me two words that rhyme with cake
  
-     '
+    '
 task_description: to teach a large language model to list the synonyms for a word.
