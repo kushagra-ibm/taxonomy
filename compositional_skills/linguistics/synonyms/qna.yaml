@@ -70,9 +70,7 @@ seed_examples:
      hive
 
       '
-    question: 'Give me two words that rhyme with live
-
-    '
+    question: Give me two words that rhyme with live
   - answer: 'Here are two rhyming words for "cake":
 
      bake
